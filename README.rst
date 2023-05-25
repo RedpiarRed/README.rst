@@ -1,7 +1,7 @@
 api Rocket
 ==========
 
-.. contents:
+.. contents::
 
 test1:
 ------------
